@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite the research manuscript and UN Comtrade when using this work."
+title: "What Counts as Recovery? Manganese, Market Switching and Uneven Adjustment in Georgia, 2015–2025"
+authors:
+  - family-names: Gupta
+    given-names: Shivam
+    affiliation: Independent Researcher
+version: 1.0.0
+date-released: 2026-10-16
+type: report
+url: "https://github.com/shi1720/manganese-recovery-observatory"
+repository-code: "https://github.com/shi1720/manganese-recovery-observatory"
+abstract: "A reproducible retrospective study of export weight, gross receipts and destination concentration in Georgia's silicomanganese economy."

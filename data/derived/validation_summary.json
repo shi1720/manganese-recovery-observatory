@@ -1,0 +1,12 @@
+{
+  "annual_partner_records": 317,
+  "monthly_partner_records": 675,
+  "monthly_world_records": 60,
+  "raw_responses": 110,
+  "total_raw_records": 1255,
+  "annual_max_value_residual_usd": 0.0010000169277191162,
+  "annual_max_weight_residual_kg": 0.0,
+  "annual_monthly_max_value_difference_usd": 0.0020000338554382324,
+  "annual_monthly_max_weight_difference_kg": 171.5,
+  "quantity_field_discrepant_records": 3
+}
